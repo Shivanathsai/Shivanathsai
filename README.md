@@ -1,95 +1,88 @@
-## Hey 👋, I'm [Shiva Mittapalli!](https://github.com/Shivanathsai)
+## Hey 👋, I'm [Shiva Mittapalli](https://github.com/Shivanathsai)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli-992a62bb/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/Shivanathsai)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Shiva13916308)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shiva_mittapalli19/?hl=en)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:smittap4@asu.edu)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/Shivanathsai)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Shivanathsai.Shivanathsai&style=flat-square&color=0088cc)
+### Backend Engineer | Data Engineering | AI/ML Integration
 
- 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development(MERN/MEAN)🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Master's student in Software Engineering at Arizona State University (4.0 GPA) with 5+ years of professional experience building scalable backend systems, data pipelines, and AI-powered applications. I specialize in distributed systems, real-time data processing, and production ML infrastructure.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+🎓 **Currently:** MS in Software Engineering @ ASU (Graduating Dec 2026)  
+💼 **Previously:** Senior Software Engineer @ UST Global, building systems processing 20M+ daily transactions  
+🔍 **Seeking:** Summer 2026 internships in Backend Engineering, Data Engineering, or ML Infrastructure
 
-### Talking about Personal Stuffs:
+<img align="right" height="250" width="375" alt="coding gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently working on Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shivanathsai).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/shiva-mittapalli-992a62bb/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: shivamittapalli7@gmail.com.
+### 🚀 What I Do
 
-### My Absolute Favorites:
+- **Backend Systems:** Python microservices, distributed architectures, event-driven systems (Kafka, Redis)
+- **Data Engineering:** Building ETL/ELT pipelines with Spark, Airflow, processing TB-scale datasets
+- **AI/ML Integration:** Real-time ML inference systems, LLM applications, fraud detection models
+- **Cloud Infrastructure:** AWS (Lambda, S3, EMR, Glue), Docker, Kubernetes, CI/CD pipelines
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+### 💡 Featured Projects
 
-### Languages and Tools:
+🔹 **[Real-Time Fraud Detection Pipeline](#)** - ML inference system processing 2M+ events/hour  
+🔹 **[LLM-Powered Code Assistant](#)** - RAG-based application with vector search (92% accuracy)  
+🔹 **[Distributed ETL Pipeline](#)** - Delta Lake + Spark processing 500GB+ daily data  
+🔹 **[Event Streaming Platform](#)** - Kafka-based system with exactly-once semantics
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+### 🛠️ Tech Stack
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### Projects and Dev Stuffs:
+**Backend & Data:**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+**AI/ML:**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logoColor=white)
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+### 📊 GitHub Stats
 
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-  </table>
-  <br />
-</details>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> DELL (i7)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	</ul>
-</details>
+### 🏆 Professional Highlights
 
-#
+- 🚀 Built production systems serving **500K+ users** with **99.9% uptime**
+- ⚡ Optimized API latency by **45%** through algorithmic improvements
+- 💰 Prevented **$2M+ annual fraud** through ML-powered detection systems
+- 📈 Reduced data processing time by **87%** (6 hours → 45 minutes)
+- 👥 Mentored **5 engineers** on distributed systems and best practices
+
+### 📫 Let's Connect!
+
+💼 Open to **internship opportunities** in Backend Engineering, Data Engineering, or ML Infrastructure  
+📧 Email: smittap4@asu.edu  
+🔗 LinkedIn: [linkedin.com/in/shiva-mittapalli](https://www.linkedin.com/in/shiva-mittapalli/)  
+🌐 Portfolio: [GitHub Projects](https://github.com/Shivanathsai?tab=repositories)
+
+---
 
 <div align="center">
+  
+### ⭐ If you find my work interesting, consider starring some repositories!
 
-### Show some ❤️ to Shiva Mittapalli by starring some of the repositories!
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Shivanathsai.Shivanathsai&style=flat-square&color=0088cc)
 
 </div>
