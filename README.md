@@ -4,7 +4,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:smittap4@asu.edu)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/Shivanathsai)
 
-### Backend Engineer | Data Engineering | AI/ML Integration
+### Full Stack | Data Engineering | AI/ML Integration
 
 I'm a Master's student in Software Engineering at Arizona State University (4.0 GPA) with 5+ years of professional experience building scalable backend systems, data pipelines, and AI-powered applications. I specialize in distributed systems, real-time data processing, and production ML infrastructure.
 
