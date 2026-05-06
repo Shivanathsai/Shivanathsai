@@ -1,74 +1,66 @@
-## Hey 👋, I'm [Shiva Mittapalli](https://github.com/Shivanathsai)
+# Shiva Mittapalli
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:smittap4@asu.edu)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/Shivanathsai)
+**Backend & Data Engineer** · Building production systems at scale
+📍 Tempe, AZ · Open to **New Grad SWE / Data Engineering / ML Infra** roles · F-1 STEM OPT (3-yr work auth)
 
-### Full Stack | Data Engineering | AI/ML Integration
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shiva--mittapalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli/)
+[![Email](https://img.shields.io/badge/Email-smittap4@asu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smittap4@asu.edu)
 
-I'm a Master's student in Software Engineering at Arizona State University (4.0 GPA) with 5+ years of professional experience building scalable backend systems, data pipelines, and AI-powered applications. I specialize in distributed systems, real-time data processing, and production ML infrastructure.
+---
 
-🎓 **Currently:** MS in Software Engineering @ ASU (Graduating Dec 2026)  
-💼 **Previously:** Senior Software Engineer @ UST Global, building systems processing 20M+ daily transactions  
-🔍 **Seeking:** Summer 2026 internships in Backend Engineering, Data Engineering, or ML Infrastructure
+MS in Software Engineering @ Arizona State (4.0 GPA, graduating Dec 2026). Previously SDE III at UST Global where I shipped systems handling **20M+ daily transactions** and ML pipelines that prevented **$2M+/year in fraud**. I write the kind of backend code that runs at 3 AM without paging anyone.
 
-<img align="right" height="250" width="375" alt="coding gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+**What I'm into right now:** real-time data infrastructure, LLM-backed services that actually work in production, and making distributed systems boring (in the good way).
 
-### 🚀 What I Do
+---
 
-- **Backend Systems:** Python microservices, distributed architectures, event-driven systems (Kafka, Redis)
-- **Data Engineering:** Building ETL/ELT pipelines with Spark, Airflow, processing TB-scale datasets
-- **AI/ML Integration:** Real-time ML inference systems, LLM applications, fraud detection models
-- **Cloud Infrastructure:** AWS (Lambda, S3, EMR, Glue), Docker, Kubernetes, CI/CD pipelines
+### 🛠️ Stack
 
-### 💡 Featured Projects
+```
+Languages    Python · Java · SQL · TypeScript
+Backend      FastAPI · Spring Boot · gRPC · REST
+Data         Spark · Kafka · Airflow · Delta Lake · dbt
+ML / AI      PyTorch · LangChain · vector DBs (Pinecone, pgvector) · OpenAI/Anthropic APIs
+Cloud        AWS (Lambda, EMR, Glue, S3, ECS) · Docker · Kubernetes · Terraform
+Observability  Prometheus · Grafana · OpenTelemetry
+```
 
-🔹 **[Real-Time Fraud Detection Pipeline](#)** - ML inference system processing 2M+ events/hour  
-🔹 **[LLM-Powered Code Assistant](#)** - RAG-based application with vector search (92% accuracy)  
-🔹 **[Distributed ETL Pipeline](#)** - Delta Lake + Spark processing 500GB+ daily data  
-🔹 **[Event Streaming Platform](#)** - Kafka-based system with exactly-once semantics
+---
 
-### 🛠️ Tech Stack
+### 📌 Pinned Projects
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+**🔹 [Real-Time Streaming Platform](https://github.com/Shivanathsai/realtime-streaming-platform)**
+Event-driven Kafka platform — **500K+ events/hour, exactly-once semantics**, 5 CEP patterns for fraud anomaly detection, Welford's algorithm for online stats, full K8s manifests with HPA on consumer lag. 10-container Docker stack. 25 unit tests, 128K+ events processed end-to-end.
+`Python · Kafka · Redis · PostgreSQL · K8s · Prometheus · Grafana`
 
-**Backend & Data:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**🔹 [Distributed ETL Pipeline](#)** *(pinned soon — link your repo)*
+Spark + Delta Lake processing **500GB+/day** with ACID transactions, schema evolution, and time-travel queries. Airflow-orchestrated, deployed on AWS EMR with autoscaling.
+`Spark · Delta Lake · Airflow · AWS EMR · S3`
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**🔹 [LLM Code Assistant (RAG)](#)** *(pinned soon — link your repo)*
+Retrieval-augmented assistant over a private codebase. Hybrid search (BM25 + dense embeddings), context re-ranking, streaming responses. **92% answer accuracy** on internal eval set of 200+ questions.
+`Python · LangChain · pgvector · FastAPI · OpenAI`
 
-**AI/ML:**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logoColor=white)
+**🔹 [Fraud Detection ML Pipeline](#)** *(pinned soon — link your repo)*
+Real-time inference service — **2M+ events/hour, p99 < 80ms**. Feature store on Redis, gradient-boosted model, online drift monitoring, shadow-mode deployment for safe rollouts.
+`Python · XGBoost · Redis · Kafka · MLflow`
 
+---
 
-### 🏆 Professional Highlights
+### 📈 Track Record
 
-- 🚀 Built production systems serving **500K+ users** with **99.9% uptime**
-- ⚡ Optimized API latency by **45%** through algorithmic improvements
-- 💰 Prevented **$2M+ annual fraud** through ML-powered detection systems
-- 📈 Reduced data processing time by **87%** (6 hours → 45 minutes)
-- 👥 Mentored **5 engineers** on distributed systems and best practices
+- Shipped systems serving **500K+ users** at **99.9%** uptime
+- Cut API p99 latency by **45%** through query plan + indexing rewrites
+- Reduced batch processing time **87%** (6 hrs → 45 min) by re-architecting partitioning
+- Mentored **5 engineers** on distributed systems design reviews
 
-### 📫 Let's Connect!
+---
 
-💼 Open to **internship opportunities** in Backend Engineering, Data Engineering, or ML Infrastructure  
-📧 Email: smittap4@asu.edu  
-🔗 LinkedIn: [linkedin.com/in/shiva-mittapalli](https://www.linkedin.com/in/shiva-mittapalli/)  
-🌐 Portfolio: [GitHub Projects](https://github.com/Shivanathsai?tab=repositories)
+### 📫 Hiring or collaborating?
 
+I'm targeting **2026 full-time New Grad SWE** roles in backend, data, and ML infrastructure across the US. Best ways to reach me:
 
+- 📧 [smittap4@asu.edu](mailto:smittap4@asu.edu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shiva-mittapalli/)
+
+If you've read this far and you're hiring — let's talk.
