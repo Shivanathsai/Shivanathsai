@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="banner.svg" alt="Shiva Mittapalli — Full-Stack and Data Engineer" width="100%"/>
+<img src="banner.png" alt="Shiva Mittapalli — Full-Stack and Data Engineer" width="100%"/>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shiva--mittapalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli/)
 [![Email](https://img.shields.io/badge/Email-smittap4@asu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smittap4@asu.edu)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shivanathsai&style=flat-square&color=A78BFA&label=Profile+Views)](https://github.com/Shivanathsai)
+[![GitHub](https://img.shields.io/badge/GitHub-Shivanathsai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivanathsai)
 
 **`Open to 2026 New Grad SWE · Full-Stack · Data Engineering roles in the US`**
 **`F-1 STEM OPT · 3-yr work authorization · Tempe, AZ`**
@@ -33,11 +33,11 @@ I've shipped full-stack systems serving **500K+ users at 99.9% uptime**, built M
 
 **Languages**
 ```
-Java          ████████████  Expert
-Python        ████████████  Expert
-JavaScript    ██████████    Strong
-TypeScript    █████████     Strong
-SQL           ████████████  Expert
+Java          ████████████
+Python        ████████████
+JavaScript    ██████████
+TypeScript    █████████
+SQL           ████████████
 ```
 
 </td>
@@ -135,12 +135,8 @@ RAG over a private codebase. Hybrid search (BM25 + dense), context re-ranking, s
 
 <div align="center">
 
-<a href="https://github.com/Shivanathsai">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1530&title_color=A78BFA&icon_color=7DD3FC&text_color=A0A8C0" />
-</a>
-<a href="https://github.com/Shivanathsai">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F1530&title_color=A78BFA&text_color=A0A8C0&langs_count=8" />
-</a>
+![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
