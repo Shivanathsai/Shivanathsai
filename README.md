@@ -2,8 +2,6 @@
 
 <img src="banner.png" alt="Shiva Mittapalli — Full-Stack and Data Engineer" width="100%"/>
 
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shiva--mittapalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli/)
 [![Email](https://img.shields.io/badge/Email-smittap4@asu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smittap4@asu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-Shivanathsai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivanathsai)
@@ -128,19 +126,6 @@ RAG over a private codebase. Hybrid search (BM25 + dense), context re-ranking, s
 🤖  Integrated OpenAI APIs and RAG pipelines into production user-facing features
 👥  Mentored 5 engineers on distributed systems design reviews
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
 
 ### 🎓 Currently
 
