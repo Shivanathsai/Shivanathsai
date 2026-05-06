@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-shivamittapalli7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamittapalli7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shivanathsai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivanathsai)
 
-**`Open to 2026 New Grad SWE · Full-Stack · Data · AI/ML Engineering roles in the US`**
+**`Open to 2026 New Grad SWE / SDE 2 · Full-Stack · Data · AI/ML Engineering roles in the US`**
 **`F-1 STEM OPT · 3-yr work authorization · Tempe, AZ`**
 
 </div>
