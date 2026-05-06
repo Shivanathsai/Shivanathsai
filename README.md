@@ -2,8 +2,6 @@
 
 <img src="banner.png" alt="Shiva Mittapalli — Full-Stack, Data and AI/ML Engineer" width="100%"/>
 
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shiva--mittapalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli/)
 [![Email](https://img.shields.io/badge/Email-shivamittapalli7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamittapalli7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shivanathsai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivanathsai)
