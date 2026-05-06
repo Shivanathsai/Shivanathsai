@@ -15,7 +15,7 @@
 
 ### 👋 About
 
-I'm a software engineer with **4.5 years of production experience** (Deloitte → UST Global, SDE III), now finishing my **MS in Software Engineering at Arizona State** (4.0 GPA, graduating Dec 2026).
+I'm a software engineer with **4.5 years of production experience**, now finishing my **MS in Software Engineering at Arizona State** (4.0 GPA, graduating Dec 2026).
 
 I work across three lanes — **shipping full-stack products, building data platforms, and integrating AI/ML into production**. I've delivered systems serving **500K+ users at 99.9% uptime**, ML pipelines that prevented **$2M+/year in fraud**, and cut batch processing time by **87%** by re-architecting partitioning. Comfortable with the whole loop: Spring Boot APIs, React UIs, Spark jobs, RAG pipelines, and the Kubernetes manifests holding it all together.
 
