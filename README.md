@@ -1,77 +1,172 @@
-# Shiva Mittapalli
+<div align="center">
 
-**Full-Stack & Data Engineer** · Java · Spring Boot · React · Python · AWS
-📍 Tempe, AZ · Open to **2026 New Grad SWE / Full-Stack / Data Engineering** roles · F-1 STEM OPT (3-yr work auth)
+<img src="banner.svg" alt="Shiva Mittapalli — Full-Stack and Data Engineer" width="100%"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shiva--mittapalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-mittapalli/)
 [![Email](https://img.shields.io/badge/Email-smittap4@asu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smittap4@asu.edu)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shivanathsai&style=flat-square&color=A78BFA&label=Profile+Views)](https://github.com/Shivanathsai)
+
+**`Open to 2026 New Grad SWE · Full-Stack · Data Engineering roles in the US`**
+**`F-1 STEM OPT · 3-yr work authorization · Tempe, AZ`**
+
+</div>
 
 ---
 
-MS in Software Engineering @ Arizona State (4.0 GPA, graduating Dec 2026). Previously SDE III at UST Global where I shipped full-stack systems serving **500K+ users at 99.9% uptime** and ML pipelines that prevented **$2M+/year in fraud**. Comfortable across the stack — Spring Boot APIs, React UIs, Spark jobs, and the Kubernetes manifests holding it all together.
+### 👋 About
+
+I'm a software engineer with **4.5 years of production experience** (Deloitte → UST Global, SDE III), now finishing my **MS in Software Engineering at Arizona State** (4.0 GPA, graduating Dec 2026).
+
+I've shipped full-stack systems serving **500K+ users at 99.9% uptime**, built ML pipelines that prevented **$2M+/year in fraud**, and cut batch processing time by **87%** by re-architecting partitioning. Comfortable across the stack — Spring Boot APIs, React UIs, Spark jobs, and the Kubernetes manifests holding it all together.
 
 **What I'm into right now:** real-time data infrastructure, LLM-backed services that actually work in production, and making distributed systems boring (in the good way).
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
 ```
-Languages    Java · Python · TypeScript · JavaScript · SQL
-Frontend     React · Vite · Next.js · Redux · Tailwind · React Hooks
-Backend      Spring Boot · Spring Security · Node.js · FastAPI · Express · gRPC · REST
-Data         Spark · Kafka · Airflow · Delta Lake · dbt
-ML / AI      PyTorch · LangChain · vector DBs (pgvector, Pinecone) · OpenAI/Anthropic APIs
-Databases    PostgreSQL · MySQL · MongoDB · Redis · DynamoDB
-Cloud        AWS (Lambda, EMR, Glue, S3, ECS, Cognito) · Docker · Kubernetes · Terraform
-DevOps       GitHub Actions · Jenkins · Prometheus · Grafana · OpenTelemetry
+Java          ████████████  Expert
+Python        ████████████  Expert
+JavaScript    ██████████    Strong
+TypeScript    █████████     Strong
+SQL           ████████████  Expert
 ```
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Data**
+```
+Spring Boot   ████████████
+Node.js       ██████████
+FastAPI       █████████
+Kafka         ██████████
+Spark         █████████
+Airflow       ████████
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend & Cloud**
+```
+React 18      ███████████
+Next.js       █████████
+AWS           ███████████
+Docker / K8s  ██████████
+PostgreSQL    ████████████
+Redis         █████████
+```
+
+</td>
+</tr>
+</table>
+
+**AI / ML:** PyTorch · LangChain · pgvector · Pinecone · OpenAI / Anthropic APIs · RAG pipelines
+**DevOps:** GitHub Actions · Jenkins · Terraform · Prometheus · Grafana · OpenTelemetry
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
-**🔹 [TaskFlow — Full-Stack Collaborative Task Manager](https://github.com/Shivanathsai/Task-Flow)**
-Production-grade Kanban-style task platform with secure auth and a clean REST API. **JWT authentication via Spring Security**, full CRUD with priority / status / due dates, drag-and-drop Kanban board (Todo → In Progress → Done), real-time stats dashboard, and Swagger-documented endpoints. Containerized end-to-end with Docker Compose, ECS-deployment-ready.
-`Java 17 · Spring Boot 3 · Spring Security · JWT · PostgreSQL · JPA · React 18 · Vite · Docker`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🔹 [Real-Time Streaming Platform](https://github.com/Shivanathsai/realtime-streaming-platform)**
-Event-driven Kafka platform — **500K+ events/hour, exactly-once semantics**, 5 CEP patterns for fraud anomaly detection, Welford's algorithm for online stats, full K8s manifests with HPA on consumer lag. 10-container Docker stack. 25 unit tests, 128K+ events processed end-to-end.
-`Python · Kafka · Redis · PostgreSQL · K8s · Prometheus · Grafana`
+#### 🔹 [TaskFlow](https://github.com/Shivanathsai/Task-Flow)
+Full-stack collaborative task manager — JWT auth, Kanban with drag-and-drop, dashboard, Swagger API, fully Dockerized.
 
-**🔹 ScrumBoard Simulator (SBS)** — Agile Training Platform
-Interactive Scrum simulator built as MS coursework (graded 100%). Role-based workflows (Scrum Master / PO / Dev), sprint lifecycle management, blocker resolution with configurable probability models, and rollback to previous sprint states for comparative analysis. Authored complete SRS — actor catalog, 9 use cases with success/failure scenarios, requirements quality analysis.
-`Java · Spring Boot · React · MySQL · REST APIs`
+`Java 17` `Spring Boot 3` `React 18` `PostgreSQL` `Docker`
 
-**🔹 LLM Code Assistant (RAG)** *(repo coming — pinning soon)*
-Retrieval-augmented assistant over a private codebase. Hybrid search (BM25 + dense embeddings), context re-ranking, streaming responses. **92% answer accuracy** on internal eval set of 200+ questions.
-`Python · LangChain · pgvector · FastAPI · OpenAI`
+</td>
+<td width="50%" valign="top">
 
-**🔹 Distributed ETL Pipeline** *(repo coming — pinning soon)*
-Spark + Delta Lake processing **500GB+/day** with ACID transactions, schema evolution, and time-travel queries. Airflow-orchestrated, deployed on AWS EMR with autoscaling.
-`Spark · Delta Lake · Airflow · AWS EMR · S3`
+#### 🔹 [Real-Time Streaming Platform](https://github.com/Shivanathsai/realtime-streaming-platform)
+Event-driven Kafka platform — **500K+ events/hr**, exactly-once semantics, 5 CEP fraud patterns, full K8s manifests with HPA on consumer lag.
 
-**🔹 Fraud Detection ML Pipeline** *(repo coming — pinning soon)*
-Real-time inference service — **2M+ events/hour, p99 < 80ms**. Feature store on Redis, gradient-boosted model, online drift monitoring, shadow-mode deployment for safe rollouts.
-`Python · XGBoost · Redis · Kafka · MLflow`
+`Python` `Kafka` `Redis` `Kubernetes` `Prometheus`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 ScrumBoard Simulator
+Agile training platform built for MS coursework (graded 100%). Role-based workflows, sprint lifecycle management, blocker resolution with probability models.
+
+`Java` `Spring Boot` `React` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 LLM Code Assistant *(coming soon)*
+RAG over a private codebase. Hybrid search (BM25 + dense), context re-ranking, streaming responses. **92% accuracy** on internal eval set.
+
+`Python` `LangChain` `pgvector` `FastAPI` `OpenAI`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📈 Track Record
 
-- Shipped full-stack systems (React + Spring Boot/Node) serving **500K+ users** at **99.9%** uptime
-- Cut API p99 latency by **45%** through query plan + indexing rewrites
-- Reduced batch processing time **87%** (6 hrs → 45 min) by re-architecting partitioning
-- Integrated OpenAI APIs and RAG pipelines into production user-facing features
-- Mentored **5 engineers** on distributed systems design reviews
+```
+🚀  Shipped full-stack systems (React + Spring Boot/Node) for 500K+ users at 99.9% uptime
+⚡  Cut API p99 latency by 45% — query plan + indexing rewrites
+📦  Reduced batch processing time 87% (6 hrs → 45 min) — re-architected partitioning
+💰  Prevented $2M+/year in fraud — real-time ML detection pipelines
+🤖  Integrated OpenAI APIs and RAG pipelines into production user-facing features
+👥  Mentored 5 engineers on distributed systems design reviews
+```
 
 ---
 
-### 📫 Hiring or collaborating?
+### 📊 GitHub Stats
 
-I'm targeting **2026 full-time New Grad SWE** roles in full-stack, backend, data, and ML infrastructure across the US. Best ways to reach me:
+<div align="center">
+
+<a href="https://github.com/Shivanathsai">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1530&title_color=A78BFA&icon_color=7DD3FC&text_color=A0A8C0" />
+</a>
+<a href="https://github.com/Shivanathsai">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F1530&title_color=A78BFA&text_color=A0A8C0&langs_count=8" />
+</a>
+
+</div>
+
+---
+
+### 🎓 Currently
+
+- 🎓 Wrapping up my MS in Software Engineering at **Arizona State University** *(graduating Dec 2026)*
+- 🛠️ Shipping **TaskFlow** and **the LLM RAG project** as portfolio capstones
+- 📚 Going deep on streaming systems, vector search, and production ML infra
+- 🌎 Recruiting season — **open to 2026 New Grad SWE roles** (full-stack, backend, data, ML infra)
+
+---
+
+### 📫 Let's Talk
+
+If you're hiring, collaborating, or just want to swap notes on distributed systems —
 
 - 📧 [smittap4@asu.edu](mailto:smittap4@asu.edu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shiva-mittapalli/)
+- 💼 [linkedin.com/in/shiva-mittapalli](https://www.linkedin.com/in/shiva-mittapalli/)
+- 🐙 [github.com/Shivanathsai](https://github.com/Shivanathsai)
 
-If you've read this far and you're hiring — let's talk.
+<div align="center">
+
+<br/>
+
+***If something here caught your eye, the easiest way to say hi is the email above.***
+
+</div>
