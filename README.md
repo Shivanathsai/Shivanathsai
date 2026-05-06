@@ -55,12 +55,6 @@ I'm a Master's student in Software Engineering at Arizona State University (4.0 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
 
 ### 🏆 Professional Highlights
 
@@ -77,12 +71,4 @@ I'm a Master's student in Software Engineering at Arizona State University (4.0 
 🔗 LinkedIn: [linkedin.com/in/shiva-mittapalli](https://www.linkedin.com/in/shiva-mittapalli/)  
 🌐 Portfolio: [GitHub Projects](https://github.com/Shivanathsai?tab=repositories)
 
----
 
-<div align="center">
-  
-### ⭐ If you find my work interesting, consider starring some repositories!
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Shivanathsai.Shivanathsai&style=flat-square&color=0088cc)
-
-</div>
