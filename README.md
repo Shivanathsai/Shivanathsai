@@ -31,7 +31,7 @@ I work across three lanes — **shipping full-stack products, building data plat
 
 **🔵 Full-Stack**
 
-Java 17 · Spring Boot 3 · React 18 · Next.js · TypeScript · Node.js · PostgreSQL · MySQL · MongoDB · REST · GraphQL · gRPC
+Java 21 · Spring Boot  · React.js · Next.js · TypeScript · Node.js · PostgreSQL · MySQL · MongoDB · REST · GraphQL · gRPC
 
 </td>
 <td valign="top" width="33%">
@@ -65,7 +65,7 @@ PyTorch · LangChain · LLM / RAG · pgvector · Pinecone · OpenAI API · Anthr
 #### 🔵 [Task-Flow](https://github.com/Shivanathsai/Task-Flow) — *Full-Stack*
 Collaborative task manager — JWT auth via Spring Security, drag-and-drop Kanban, real-time stats dashboard, Swagger-documented API. Containerized end-to-end with Docker Compose, ECS-deployment-ready.
 
-`Java 17` `Spring Boot 3` `React 18` `PostgreSQL` `Docker`
+`Java 21` `Spring Boot ` `React.js` `PostgreSQL` `Docker`
 
 </td>
 <td width="50%" valign="top">
