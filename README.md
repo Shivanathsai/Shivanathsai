@@ -123,19 +123,6 @@ Medallion-architecture pipeline (Bronze → Silver → Gold) processing **500GB+
 👥  Mentored 5 engineers on distributed systems design reviews
 ```
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ### 🎓 Currently
 
 - 🎓 Wrapping up MS in Software Engineering at **Arizona State University** *(Dec 2026)*
